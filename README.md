@@ -28,9 +28,9 @@ O projeto está configurado para uma velocidade de monitoramento serial de **921
 
 1.  Clone o repositório.
 2.  Abra a pasta do projeto no VS Code com o PlatformIO instalado.
-3.  No arquivo `src/main.cpp`, verifique as credenciais da rede:
-    - **SSID:** `LabTeC - Colaboradores`
-    - **Senha:** `asdf1234`
+3.  No arquivo `src/main.cpp`, altere as credenciais da rede:
+    - **SSID:** `nome da rede`
+    - **Senha:** `senha da rede`
 4.  Conecte o ESP32 e realize o **Upload** através do ícone na barra inferior do PlatformIO.
 
 ## 📝 Funcionamento Atual
